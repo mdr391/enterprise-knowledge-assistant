@@ -28,6 +28,25 @@ This project implements all of the above.
 
 ---
 
+## Screenshots
+
+### Interactive API Docs (Swagger UI)
+![Swagger UI](docs/swagger_ui.png)
+
+### Streaming Demo Output
+![Demo Query Output](docs/demo_output.png)
+
+### Post Query Request
+![Request](docs/synchronous_request.png)
+
+### Query Response
+![Response](docs/synchronous_response.png)
+
+### Health Check
+![Health Check](docs/health_check.png)
+
+---
+
 ## Architecture
 
 ```
