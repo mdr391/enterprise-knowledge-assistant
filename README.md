@@ -473,7 +473,7 @@ This system is designed with the following responsible AI properties:
 | Logging | structlog | Machine-readable JSON logs; Datadog-compatible |
 | Validation | Pydantic v2 | Runtime schema enforcement on all I/O |
 | Testing | pytest + httpx | Async-native test client with full pipeline coverage |
-
+| Containerisation | Docker + Compose | One-command local run; production-ready image |
 ---
 
 ## Author
