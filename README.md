@@ -1,5 +1,7 @@
 # Enterprise Knowledge Assistant
 
+[![CI](https://github.com/mdr391/enterprise-knowledge-assistant/actions/workflows/ci.yml/badge.svg)](https://github.com/mdr391/enterprise-knowledge-assistant/actions/workflows/ci.yml)
+
 > A production-grade RAG (Retrieval-Augmented Generation) service that lets employees
 > query internal documents — policies, runbooks, wikis — via a streaming LLM interface.
 
