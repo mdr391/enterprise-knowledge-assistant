@@ -485,3 +485,4 @@ This system is designed with the following responsible AI properties:
 
 This project is part of a portfolio demonstrating production GenAI engineering
 for enterprise workforce tooling.
+Copyright © 2026 Zahidur Rahman
